@@ -4,8 +4,8 @@
     open Microsoft.Quantum.Intrinsic;
     
 
-    @EntryPoint()
-    operation QuDev() : Unit {
+
+    operation BellStateDev() : Unit {
         mutable ones = 0;
         mutable zeros = 0;
         for(i in 0..99){

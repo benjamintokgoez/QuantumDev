@@ -168,3 +168,6 @@ obj/qsharp/config/qsc.config
 obj/qsharp/config/qsc.rsp
 obj/qsharp/src/BellState.EntryPoint.g.cs
 obj/qsharp/src/BellState.g.cs
+obj/qsharp/src/Startup.EntryPoint.g.cs
+obj/qsharp/src/PinCracker.g.cs
+obj/qsharp/src/Startup.g.cs
